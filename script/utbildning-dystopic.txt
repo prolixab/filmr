@@ -2,28 +2,28 @@
     "sekvenser": [
         {
             "titel": "Introduktion",
-            "beskrivning": "Välkommen till dokumentären 'Utbildning i en dystopisk framtid'. Vi tar dig med på en resa 50 år fram i tiden för att utforska hur utbildningssystemet har förändrats och anpassats till den nya världen vi lever i.",
-            "bild": "En övergiven skola med trasiga fönster och växter som växer genom sprickorna i golvet."
+            "beskrivning": "I denna dokumentär ska vi utforska hur utbildningssystemet har förändrats och utvecklats under de senaste 50 åren. Vi kommer att se på hur teknologin har påverkat lärandet, tillgången till utbildning och vilka konsekvenser detta har haft för samhället.",
+            "bild": "En skolbyggnad övergiven och täckt av mossa, med trasiga fönster och växtlighet som tar över. En symbol för det gamla utbildningssystemet som har lämnats bakom."
         },
         {
-            "titel": "Övervakning och kontroll",
-            "beskrivning": "I framtida utbildningssystemet har övervakning och kontroll blivit normen. Eleverna bär nu på sig biometriska enheter som spårar deras rörelser och registrerar deras beteende. Lärarna övervakar elevernas aktiviteter i realtid genom sina digitala enheter.",
-            "bild": "En grupp elever med små biometriska enheter fästa på sina handleder, med lärare som övervakar dem genom sina datorer."
+            "titel": "Digitalisering av utbildning",
+            "beskrivning": "I framtiden har utbildning blivit helt digitaliserad. Elever och studenter deltar i virtuella klassrum från sina hem eller andra platser över hela världen. Genom användning av avancerade teknologier som virtuell verklighet och artificiell intelligens har undervisningen blivit mer interaktiv och anpassningsbar.",
+            "bild": "En ung student med en VR-headset sitter i sitt rum och deltar i en virtuell biologi lektion. Genom headsetet ser vi en realistisk modell av en cell som denne undersöker."
         },
         {
-            "titel": "Individualisering av lärande",
-            "beskrivning": "I den dystopiska framtiden har lärandet individualiserats till max. Varje elev har en personlig AI-assistent som skräddarsyr läroplanen och uppgifterna efter deras specifika behov och förmågor. Detta leder till ökad isolering och brist på social interaktion bland eleverna.",
-            "bild": "En elev sitter ensam med en dator framför sig, med en virtuell assistent som projiceras som en hologram över skärmen."
+            "titel": "Sociala konsekvenser",
+            "beskrivning": "Den digitala utbildningen har lett till en ökad isolering bland unga människor. Fysiska skolor har blivit ovanliga och interaktionen mellan elever och lärare har minskat drastiskt. Många unga saknar nu färdigheter som krävs för att samarbeta och kommunicera ansikte mot ansikte.",
+            "bild": "En grupp tonåringar sitter ensamma med sina datorer i en tom skolmatsal. Ingen pratar med varandra och alla är försjunkna i sina egna virtuella världar."
         },
         {
-            "titel": "Arbetsmarknadsanpassat lärande",
-            "beskrivning": "Utbildningen har blivit strikt inriktad på att producera arbetskraft som är anpassad till de krav som arbetsmarknaden ställer. Eleverna tränas för att vara effektiva arbetsenheter istället för att utveckla kreativitet och självständigt tänkande.",
-            "bild": "En stor skylt med orden 'Arbetsenheter i produktion' som välkomnar elever till skolan."
+            "titel": "Ekonomiska klyftor",
+            "beskrivning": "Trots den ökade tillgängligheten till digital utbildning har ekonomiska klyftor blivit tydligare. Endast de som har råd med den senaste teknologin och snabb internetanslutning har möjlighet att ta del av högkvalitativ utbildning. De som kommer från mindre bemedlade familjer har svårt att konkurrera på den digitala utbildningsmarknaden.",
+            "bild": "En ung student tittar avundsjukt på en annan student som har den senaste modellen av en utbildningsrobot. Den första studenten använder fortfarande en gammal och långsam dator."
         },
         {
             "titel": "Avslutning",
-            "beskrivning": "Vi har nu sett hur utbildningssystemet har förändrats i denna dystopiska framtid. Trots de utmaningar och brister som systemet har, finns det fortfarande hopp om att människor kan kämpa för att återställa en mer mänsklig och balanserad syn på lärande och utveckling.",
-            "bild": "En bild av en ung elev som tittar upp mot en strålande solnedgång, symboliserande hopp och en ny början."
+            "beskrivning": "I denna dokumentär har vi sett hur utbildning har förändrats dramatiskt under de senaste 50 åren. Trots de teknologiska framstegen har det uppstått nya problem och utmaningar i utbildningssystemet. Det är viktigt att reflektera över konsekvenserna av digitaliseringen och arbeta för att skapa ett mer jämlikt och inkluderande utbildningssystem för framtiden.",
+            "bild": "En gammal skolbok ligger ensam på en bänk i en övergiven skolbyggnad. Texten på boken är suddig och otydlig, en symbol för det förflutna som håller på att blekna bort."
         }
     ]
 }

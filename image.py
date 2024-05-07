@@ -17,6 +17,7 @@ from datetime import datetime  # for formatting date returned with images
 import base64                  # for decoding images if recieved in the reply
 import requests                # for downloading images from URLs
 from PIL import Image          # pillow, for processing image types
+from prompts import image_style_prompt
 from dotenv import load_dotenv
 load_dotenv()
 
@@ -44,7 +45,7 @@ def generate_DALLE_images(user_prompt, path, filename):
 
         prompt = (
             f"Subject: {user_prompt} "  # use the space at end
-            "Style: Photorealistic 4K photograph."  # this is implicit line continuation
+            f"Style: {image_style_prompt}"  # this is implicit line continuation
         )
 
         image_params = {

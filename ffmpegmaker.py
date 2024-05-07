@@ -16,16 +16,22 @@ def make_short_film(path, img, audio, filename, i):
     ffmpeg.run(output)
     return final_filename
 
-def make_short_films(image_file_list, audio_file_list, video_path, filename ):
-    video_list=[]
+
+def make_short_films(image_file_list, audio_file_list, video_path, filename):
+    video_list = []
     for i, img in enumerate(image_file_list):
         final_filename = make_short_film(video_path, img, audio_file_list[i], filename, i)
         video_list.append(final_filename)
     return video_list
 
+
 def summarize_film(textfile_path, path, filename):
-    ffmpeg.input(textfile_path,
-                 format='concat', safe=0).output(f'output-video.avi', c='copy').run()
+    output_file = f'{os.path.join(path, filename)}.avi'
+
+    ffmpeg.input(textfile_path, format='concat', safe=0).output(f'{output_file}',
+                                                                c='copy').overwrite_output().run()
+
+    return output_file
     # (
     #     ffmpeg
     #     .concat(t)
