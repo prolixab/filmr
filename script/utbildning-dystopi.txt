@@ -1,0 +1,29 @@
+{
+    "sekvenser": [
+        {
+            "titel": "Introduktion",
+            "beskrivning": "Välkommen till vår dokumentär om utbildningens dystopiska framtid! I denna värld har teknologin tagit över alltmer av våra liv, och utbildningssystemet är ingen undantag. Vi ska utforska hur utbildningen har förändrats och vilka konsekvenser det har haft för samhället.",
+            "bild": "En futuristisk skolbyggnad omgiven av höga stängsel och övervakningskameror, där elever i enhetliga dräkter går i rader genom en säkerhetskontroll. En stor holografisk skärm visar en sträng lärare som övervakar dem."
+        },
+        {
+            "titel": "Övervakning och kontroll",
+            "beskrivning": "I framtida utbildningssystemet har övervakningen och kontrollen ökat drastiskt. Eleverna är ständigt under uppsikt, både fysiskt och digitalt. Deras beteende och prestationer övervakas noggrant för att säkerställa konformitet och lydnad.",
+            "bild": "En ung elev sitter ensam vid ett skrivbord med en VR-hjälm på huvudet, medan en robotlärare med kameraögon bevakar varje rörelse. En skärm visar elevens biometriska data och prestationer i realtid."
+        },
+        {
+            "titel": "Indoktrinering och anpassning",
+            "beskrivning": "I utbildningssystemet har indoktrinering och anpassning blivit centrala. Eleverna matas med en standardiserad läroplan som främjar lydnad och anpassning till det rådande samhällssystemet. Kreativitet och individualitet är inte välkommet.",
+            "bild": "En grupp elever sitter i en klassrumspod, där en stor skärm projicerar riktlinjer för beteende och tankesätt. Elevernas ansikten är uttryckslösa och likformiga, visar ingen tecken på individualitet."
+        },
+        {
+            "titel": "Teknologins dominans",
+            "beskrivning": "Teknologin har blivit den primära undervisningsmetoden i utbildningssystemet. Eleverna spenderar större delen av sin tid framför skärmar och interagerar med AI-drivna program istället för med verkliga lärare. Mänsklig interaktion är minimal.",
+            "bild": "En stor sal fylld med elever som sitter vid skrivbord med skärmar framför sig. En gigantisk holografisk lärare svävar över dem och ger instruktioner. Eleverna är fördjupade i sina skärmar och verkar omedvetna om sin omgivning."
+        },
+        {
+            "titel": "Avslutning",
+            "beskrivning": "Vi har sett hur utbildningssystemet har förvandlats till en dystopisk miljö där kontroll, anpassning och teknologisk dominans styr. Frågan är om det fortfarande finns hopp om en mer humanistisk och inkluderande framtid för utbildningen.",
+            "bild": "En ensam elev står framför en gigantisk mur av digitala skärmar som visar algoritmer och data. Trots omgivningen av teknologi ser eleven bestämd ut och blickar mot horisonten, kanske med en antydan till hopp i ögonen."
+        }
+    ]
+}

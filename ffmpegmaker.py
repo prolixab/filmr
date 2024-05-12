@@ -1,5 +1,8 @@
 import ffmpeg
 import os
+import moviepy
+from moviepy.editor import VideoFileClip
+from moviepy.video.compositing.concatenate import concatenate_videoclips
 
 
 def make_film(filelist, path, filename):
@@ -25,12 +28,15 @@ def make_short_films(image_file_list, audio_file_list, video_path, filename):
     return video_list
 
 
-def summarize_film(textfile_path, path, filename):
-    output_file = f'{os.path.join(path, filename)}.avi'
+def summarize_film(file_list, path, filename):
+    output_file = f'{os.path.join(path, filename)}.mp4'
+    video_clips=[]
+    for s in file_list:
+        video_clips.append(VideoFileClip(s))
+    final = concatenate_videoclips(video_clips)
 
-    ffmpeg.input(textfile_path, format='concat', safe=0).output(f'{output_file}',
-                                                                c='copy').overwrite_output().run()
-
+    # Write output to the file
+    final.write_videofile(output_file)
     return output_file
     # (
     #     ffmpeg
