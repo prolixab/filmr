@@ -1,0 +1,29 @@
+{
+    "sekvenser": [
+        {
+            "titel": "Introduktion",
+            "beskrivning": "I denna dokumentär ska vi utforska hur utbildningssystemet har förändrats och utvecklats under de senaste 50 åren. Vi kommer att se på hur teknologin har påverkat lärandet, tillgången till utbildning och vilka konsekvenser detta har haft för samhället.",
+            "bild": "En skolbyggnad övergiven och täckt av mossa, med trasiga fönster och växtlighet som tar över. En symbol för det gamla utbildningssystemet som har lämnats bakom."
+        },
+        {
+            "titel": "Digitalisering av utbildning",
+            "beskrivning": "I framtiden har utbildning blivit helt digitaliserad. Elever och studenter deltar i virtuella klassrum från sina hem eller andra platser över hela världen. Genom användning av avancerade teknologier som virtuell verklighet och artificiell intelligens har undervisningen blivit mer interaktiv och anpassningsbar.",
+            "bild": "En ung student med en VR-headset sitter i sitt rum och deltar i en virtuell biologi lektion. Genom headsetet ser vi en realistisk modell av en cell som denne undersöker."
+        },
+        {
+            "titel": "Sociala konsekvenser",
+            "beskrivning": "Den digitala utbildningen har lett till en ökad isolering bland unga människor. Fysiska skolor har blivit ovanliga och interaktionen mellan elever och lärare har minskat drastiskt. Många unga saknar nu färdigheter som krävs för att samarbeta och kommunicera ansikte mot ansikte.",
+            "bild": "En grupp tonåringar sitter ensamma med sina datorer i en tom skolmatsal. Ingen pratar med varandra och alla är försjunkna i sina egna virtuella världar."
+        },
+        {
+            "titel": "Ekonomiska klyftor",
+            "beskrivning": "Trots den ökade tillgängligheten till digital utbildning har ekonomiska klyftor blivit tydligare. Endast de som har råd med den senaste teknologin och snabb internetanslutning har möjlighet att ta del av högkvalitativ utbildning. De som kommer från mindre bemedlade familjer har svårt att konkurrera på den digitala utbildningsmarknaden.",
+            "bild": "En ung student tittar avundsjukt på en annan student som har den senaste modellen av en utbildningsrobot. Den första studenten använder fortfarande en gammal och långsam dator."
+        },
+        {
+            "titel": "Avslutning",
+            "beskrivning": "I denna dokumentär har vi sett hur utbildning har förändrats dramatiskt under de senaste 50 åren. Trots de teknologiska framstegen har det uppstått nya problem och utmaningar i utbildningssystemet. Det är viktigt att reflektera över konsekvenserna av digitaliseringen och arbeta för att skapa ett mer jämlikt och inkluderande utbildningssystem för framtiden.",
+            "bild": "En gammal skolbok ligger ensam på en bänk i en övergiven skolbyggnad. Texten på boken är suddig och otydlig, en symbol för det förflutna som håller på att blekna bort."
+        }
+    ]
+}
